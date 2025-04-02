@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="structSR__GRAPH__NS_1_1RenderScene_1_1CameraInfo" kind="struct" language="C++" prot="public">
+    <compoundname>SR_GRAPH_NS::RenderScene::CameraInfo</compoundname>
+    <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="structSR__GRAPH__NS_1_1RenderScene_1_1CameraInfo_1a60ca90507c59b7a25f729e82f5b4830c" prot="public" static="no" mutable="no">
+        <type>CameraPtr</type>
+        <definition>CameraPtr SR_GRAPH_NS::RenderScene::CameraInfo::pCamera</definition>
+        <argsstring></argsstring>
+        <name>pCamera</name>
+        <qualifiedname>SR_GRAPH_NS::RenderScene::CameraInfo::pCamera</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Engine/Core/libs/Graphics/inc/Graphics/Render/RenderScene.h" line="55" column="23" bodyfile="Engine/Core/libs/Graphics/inc/Graphics/Render/RenderScene.h" bodystart="55" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Engine/Core/libs/Graphics/inc/Graphics/Render/RenderScene.h" line="54" column="9" bodyfile="Engine/Core/libs/Graphics/inc/Graphics/Render/RenderScene.h" bodystart="54" bodyend="56"/>
+    <listofallmembers>
+      <member refid="structSR__GRAPH__NS_1_1RenderScene_1_1CameraInfo_1a60ca90507c59b7a25f729e82f5b4830c" prot="public" virt="non-virtual"><scope>SR_GRAPH_NS::RenderScene::CameraInfo</scope><name>pCamera</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
